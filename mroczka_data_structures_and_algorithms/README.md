@@ -14,7 +14,7 @@ The homework is broken into three parts. Only one of the last two graph question
 ## Submission Instructions
 To submit homework for this assignment, please fill out the `homework.py` file to the best of your ability.
 
-Once you have the `homework.py` file filled out, please upload it as a github gist for me to review. Just send me the link to the gist, please.
-_**Please**_ do not send me file attachments or an email with raw code in it, as it becomes impossible to match proper indentation and get the file working. Just send the gist.
+Once you have the `homework.py` file filled out, please [upload it as a github gist](https://docs.github.com/en/enterprise/2.13/user/articles/creating-gists) for me to review then simply send me the link. Only send the link to the gist, please.
+_**Please**_ do not send me file attachments or an email with raw code in it, as it becomes impossible to match proper indentation and get the file working. Just send the direct link to the [gist](https://docs.github.com/en/enterprise/2.13/user/articles/creating-gists).
 
 Submit work to michael.mroczka {AT} gmail.com
