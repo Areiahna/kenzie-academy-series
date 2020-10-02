@@ -1,4 +1,10 @@
 # Homework Instructions
+## Presentation Slides
+The entire slide presentation, including snippets, are available at [this link](https://docs.google.com/presentation/d/1deCM_vjT_uOAqW-A4zxwSN08PMAvej5eGJANrHEbMSs/edit?usp=sharing).
+
+## Video Intro to Homework
+Please view a quick video [here](https://www.dropbox.com/s/c8gjspj9n5areoj/Kenzie%20Academy%20Homework%20Review.mp4?dl=0) on how to get started with the homework.
+
 ## Homework Overview
 The homework is broken into three parts. Only one of the last two graph questions is required, both are encouraged, but optional:
 1) **Big-O Questions** - This involves determining the appropriate Big-O given different functions.
